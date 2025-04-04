@@ -40,5 +40,6 @@ Hello! I'm **Peter Ndinguri**, an Electrical Engineer specializing in **Circuit 
 - **Phone:** 0792192378
 - **Email:** ptrptrping@gmail.com
 - **GitHub:** [Dee-droid152](https://github.com/Dee-droid152)
+- git@github.com:Dee-droid152/volt-vista-designs.git
 
 Feel free to explore my repositories to see more of my work. Thank you for visiting!
